@@ -1,6 +1,6 @@
 # Black Duck - Licenses Analysis
 
-Script usefull for Black Duck OSS Analysis. 2 main purposes:
+Script useful for Black Duck OSS Analysis. 2 main purposes:
 
 - Create an Excel file containing all the licenses used with their rule_set (post scan analysis step)
 - Autofill custom fields on Black Duck (post analysis step)
