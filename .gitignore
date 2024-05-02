@@ -1,0 +1,7 @@
+*.pdf
+*.xlsx
+*.vscode
+*.env
+venv
+__pycache__
+*.json
